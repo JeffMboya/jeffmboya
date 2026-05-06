@@ -56,7 +56,7 @@ One of six pioneers of Kenya's first student rocket program. One of two engineer
 - 8+ PCBs fabricated for industrial sensing, IoT, and edge compute
 - ESP32-C6, SIM7080G NB-IoT, Wireless M-Bus, BeagleV-Fire RISC-V
 - Zephyr RTOS board bring-up, TIA Portal / PLC programming, sensor fusion
-- S0 and S1 IoT gateways at Abstract Machines shipping to industrial deployments
+- [S0 and S1 IoT gateways](https://hardware.absmach.eu/) at Abstract Machines shipping to industrial deployments
 
 ---
 
