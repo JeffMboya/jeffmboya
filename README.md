@@ -14,9 +14,7 @@ One of six pioneers of Kenya's first student rocket program. One of two engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JeffMboya&color=blue&style=flat)
 
-![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeffMboya&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffMboya&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JeffMboya&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
