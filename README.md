@@ -32,41 +32,39 @@ One of six pioneers of Kenya's first student rocket program. One of two engineer
 
 ## 🚀 Now
 
-**[Propeller](https://propeller.absmach.eu)** — WebAssembly orchestrator for the EU ELASTIC project. <10ms boot, 24 concurrent WASM instances on a $4 ESP32-S3, TEE-backed workload migration across trust boundaries, federated learning pipeline that compiles sklearn classifiers into ARM-deployable WASM binaries.
-
-**[Cube AI](https://cube.ultraviolet.rs)** — Confidential LLM inference inside AMD SEV-SNP / Intel TDX hardware enclaves. <10% throughput overhead vs unprotected baseline. OpenAI-compatible API for LLaMA, Mistral, and Qwen.
-
-**[Scripli](https://scripli.com)** — Human authorship certificate platform, built solo. Behavioral text classifier, cryptographic certificate pipeline, LTI 1.3 institutional integration. Users in Kenya, Nigeria, Georgia, South Africa, US, Australia, and Germany.
+- **[Propeller](https://propeller.absmach.eu)** — WebAssembly orchestrator for the EU ELASTIC project. <10ms boot, 24 concurrent WASM instances on a $4 ESP32-S3, TEE-backed workload migration across trust boundaries, federated learning pipeline that compiles sklearn classifiers into ARM-deployable WASM binaries.
+- **[Cube AI](https://cube.ultraviolet.rs)** — Confidential LLM inference inside AMD SEV-SNP / Intel TDX hardware enclaves. <10% throughput overhead vs unprotected baseline. OpenAI-compatible API for LLaMA, Mistral, and Qwen.
+- **[Scripli](https://scripli.com)** — Human authorship certificate platform, built solo. Behavioral text classifier, cryptographic certificate pipeline, LTI 1.3 institutional integration. Users in Kenya, Nigeria, Georgia, South Africa, US, Australia, and Germany.
 
 ---
 
 ## 🤝 Open source
 
-**[Magistrala](https://magistrala.absmach.eu)** — 570+ commits to a 30-service Go platform with 2.5k+ GitHub stars. 400+ active deployments across Nokia, Ericsson, Intel, and 13+ global partners. Owns: Bootstrap security (patched critical SQL injection), billing event-store middleware, SpiceDB access control extensions, full Kubernetes pipeline — Helm, FluxCD, Flagger canary rollouts, Velero backup.
+- **[Magistrala](https://magistrala.absmach.eu)** — 570+ commits to a 30-service Go platform with 2.5k+ GitHub stars. 400+ active deployments across Nokia, Ericsson, Intel, and 13+ global partners. Owns: Bootstrap security (patched critical SQL injection), billing event-store middleware, SpiceDB access control extensions, full Kubernetes pipeline — Helm, FluxCD, Flagger canary rollouts, Velero backup.
 
 ---
 
 ## 🛠️ Personal projects
 
-**[Radar](https://github.com/JeffMboya/radar)** — arXiv IR pipeline in Go. Parallel per-paper NLP extraction and cross-document synthesis across 50+ papers per run. `radar build <N>` generates full project briefs.
-
-**[Swarm](https://github.com/JeffMboya/swarm)** — Multi-agent market simulator. 15 concurrent trader personas with distinct strategies, two-round debate model, emergent consensus tracking.
+- **[Radar](https://github.com/JeffMboya/radar)** — arXiv IR pipeline in Go. Parallel per-paper NLP extraction and cross-document synthesis across 50+ papers per run. `radar build <N>` generates full project briefs.
+- **[Swarm](https://github.com/JeffMboya/swarm)** — Multi-agent market simulator. 15 concurrent trader personas with distinct strategies, two-round debate model, emergent consensus tracking.
 
 ---
 
 ## 🔩 Hardware
 
-8+ PCBs fabricated for industrial sensing, IoT, and edge compute. ESP32-C6, SIM7080G NB-IoT, Wireless M-Bus, BeagleV-Fire RISC-V. Zephyr RTOS board bring-up, TIA Portal / PLC programming, sensor fusion. The S0 and S1 IoT gateways at Abstract Machines ship to industrial deployments.
+- 8+ PCBs fabricated for industrial sensing, IoT, and edge compute
+- ESP32-C6, SIM7080G NB-IoT, Wireless M-Bus, BeagleV-Fire RISC-V
+- Zephyr RTOS board bring-up, TIA Portal / PLC programming, sensor fusion
+- S0 and S1 IoT gateways at Abstract Machines shipping to industrial deployments
 
 ---
 
 ## 🏆 Awards
 
-**IBM Call for Code — Regional Winner, MEA (2021)** · 500,000+ developers, 180 nations
-
-**Huawei Seeds for the Future — 2nd Runners-up, Kenya (2021)** · gamified AI for early cataract detection in children
-
-**3 international PCT patents (WIPO, 2025)** · direct air capture technologies
+- **IBM Call for Code — Regional Winner, MEA (2021)** · 500,000+ developers, 180 nations
+- **Huawei Seeds for the Future — 2nd Runners-up, Kenya (2021)** · gamified AI for early cataract detection in children
+- **3 international PCT patents (WIPO, 2025)** · direct air capture technologies
 
 ---
 
