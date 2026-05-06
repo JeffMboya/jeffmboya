@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jeff Mboya
 
-**Software Engineer II at [Abstract Machines](https://absmach.com) · Nairobi, Kenya**
+**Software Engineer II at [Abstract Machines](https://absmach.com), Paris · Remote from Nairobi, Kenya**
 
 > I debug PCB traces, PLC ladder logic, and Go goroutines in the same week.
 
