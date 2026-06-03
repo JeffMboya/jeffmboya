@@ -14,19 +14,16 @@ One of six pioneers of Kenya's first student rocket program. One of two engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JeffMboya&color=blue&style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JeffMboya&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ---
 
 ## 🔧 Stack
 
-**Systems & Edge:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white) ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6E4C13?style=flat&logoColor=white)
-
-**Web & Data:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Infra & Security:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logoColor=white) ![AMD SEV-SNP](https://img.shields.io/badge/AMD_SEV--SNP-ED1C24?style=flat&logo=amd&logoColor=white)
-
-**Hardware:** ![PCB Design](https://img.shields.io/badge/PCB_Design-006600?style=flat&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-4A4A4A?style=flat&logoColor=white)
+- **Systems & Edge:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white) ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6E4C13?style=flat&logoColor=white)
+- **Web & Data:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- **Infra & Security:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logoColor=white) ![AMD SEV-SNP](https://img.shields.io/badge/AMD_SEV--SNP-ED1C24?style=flat&logo=amd&logoColor=white)
+- **Hardware:** ![PCB Design](https://img.shields.io/badge/PCB_Design-006600?style=flat&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=flat&logo=riscv&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-4A4A4A?style=flat&logoColor=white)
 
 ---
 
